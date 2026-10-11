@@ -1,0 +1,21 @@
+{
+  "name": "carry-crane",
+  "version": "1.0.0",
+  "description": "A browser-based 3D place value game for children in Class 2-3 using Three.js and Vite",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "three": "^0.172.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7",
+    "vitest": "^2.1.8"
+  }
+}
